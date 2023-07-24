@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:burlywood	;
+     margin:15px;
+    
+}  
+header p{
+    color:black;
+
+}
+header a{
+
+color:black;
+}
+main h1{
+    font-size:40px;
+}
+body{
+    background-color:#FFC073;
+}
+nav a{
+    color:brown;
+    text-decoration:none;
+    font-size:18px;
+}
+.class{
+    border:2px solid brown;
+    border-radius:12px;
+    margin:15px;
+    padding:15px;
+}
+h2{
+    color:chocolate;
+}
+main{
+    margin:15px;
+}
+footer{
+     margin:15px;
+}
+nav a{
+    border:15px;
+    border-bottom:double;
+}
